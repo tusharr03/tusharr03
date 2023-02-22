@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tushar</h1>
-<h3 align="center">A Cyber Security Enthusiast who is interested in network security and information security and passionate about protecting digital assets and ensuring the security of electronic systems and networks.</h3>
+<!-- <h3 align="center">A Cyber Security Enthusiast who is interested in network security and information security and passionate about protecting digital assets and ensuring the security of electronic systems and networks.</h3> -->
 <img align="right" alt="security" width="300" src="https://i.pinimg.com/originals/77/a4/b0/77a4b075f3ef37ca9503827d3c6fb021.gif">
 
 
