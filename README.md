@@ -27,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tusharr03&show_icons=true&locale=en" alt="tusharr03" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tusharr03&" alt="tusharr03" /></p>
+<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharr03&hide_border=true&layout=compact" align="center" /></div>  
+
