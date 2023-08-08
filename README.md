@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **hackerts3002@gmail.com, 21051953@kiit.ac.in**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1f23m3_oQqGwlDMSnt7LXtQ0rnUnkwBFu/view)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1f23m3_oQqGwlDMSnt7LXtQ0rnUnkwBFu/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
